@@ -3,7 +3,7 @@
 ## 💫 About Me:
 🚀 UI/UX Developer • 💻 Roblox Game Developer • ⚡ IT Support
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Science+Gothic&size=30&pause=1000&color=1158F7&width=435&lines=Hi%2C+My+name+is+Luke;Bachelor's+in+Computer+Science;UI%2FUX+Dev+%7C+Roblox+Game+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Science+Gothic&size=30&pause=1000&color=1158F7&width=435&lines=Hi%2C+My+name+is+Luke;Computer+Science;UI%2FUX+Developer;Roblox+Game+Developer;IT+Support)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
