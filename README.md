@@ -7,6 +7,9 @@
 
 ## 🎯 **ABOUT THE DEVELOPER**
 
+<div align="center">
+    
+```lua
 local Developer = {}
 Developer.__index = Developer
 
@@ -34,6 +37,8 @@ end
 local Luke = Developer.new()
 
 print(Luke:CurrentMission())
+```
+</div>
 
 
 ## 🌐 **Socials**
